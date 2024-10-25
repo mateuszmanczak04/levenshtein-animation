@@ -1,1 +1,1 @@
-# Animation showing how Levenshtein metric algorithm works 
+# Animation showing how Levenshtein metric algorithm works
